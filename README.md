@@ -18,13 +18,13 @@ Used python to solve the problem. OpenCV to get the image from different cameras
 
 ## Screenshots
 
-![Vehicle Detection](https://github.com/lijojosef/traffic_congestion_control/blob/master/photo_2022-01-20_12-21-58.jpg)
+![Vehicle Detection](https://github.com/lijojosef/traffic_congestion_control/blob/master/photo_2022-01-20_12-21-58.jpg)   
 
-![Car count](https://github.com/lijojosef/traffic_congestion_control/blob/master/photo_2020-04-06_15-09-41.jpg)
+![Car count](https://github.com/lijojosef/traffic_congestion_control/blob/master/photo_2020-04-06_15-09-41.jpg)   
 
-![Whole process](https://github.com/lijojosef/traffic_congestion_control/blob/master/photo_2022-01-20_12-22-18.jpg)
+![Whole process](https://github.com/lijojosef/traffic_congestion_control/blob/master/photo_2022-01-20_12-22-18.jpg)   
 
-![Screenshots]((https://github.com/lijojosef/traffic_congestion_control/blob/master/photo_2022-01-20_12-21-58.jpg)
+![Screenshots]((https://github.com/lijojosef/traffic_congestion_control/blob/master/photo_2022-01-20_12-21-58.jpg)   
 )
 
 
